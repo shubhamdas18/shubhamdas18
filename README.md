@@ -35,11 +35,14 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdas18&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhamdas18&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdas18&layout=compact&theme=tokyonight" alt="Top Languages" />
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamdas18&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhamdas18&theme=tokyonight" width="400" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamdas18&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
 </p>
+
 
 ---
 
