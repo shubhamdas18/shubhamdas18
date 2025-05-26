@@ -35,8 +35,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shubhamdas18&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shubhamdas18&theme=tokyonight" width="400" alt="GitHub Streak" />
